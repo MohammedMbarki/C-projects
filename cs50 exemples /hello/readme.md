@@ -29,3 +29,5 @@ int main (void)
     string answer = get_string("what is your name ");
     printf("hello %s\n", answer);
 }
+
+//you can run this code with cs50.dev
